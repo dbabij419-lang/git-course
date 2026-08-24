@@ -13,3 +13,8 @@
 Це моя друга зміна 
 Я вчу Git і вже працюю з GitHub!
 Я вчуся працювати з гілками Git!
+Я вчуся працювати з гілками Git!
+Login feature! 
+Change from MAIN
+Change from LOGIN
+Change made directly on GitHub
