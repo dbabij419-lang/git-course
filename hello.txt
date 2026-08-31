@@ -18,4 +18,3 @@ Login feature!
 Change from MAIN
 Change from LOGIN
 Change made directly on GitHub
-Це тестова зміна для git revert!
